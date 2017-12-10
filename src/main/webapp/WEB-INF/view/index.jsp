@@ -25,7 +25,7 @@
         <h2>Сериалы:</h2>
         <div class="container well">
 
-                <span class="lead">Создание нового обращения:</span>
+                <span class="lead">Поиск по названию:</span>
 
         </div>
     </div>
